@@ -62,6 +62,8 @@ Core/Src/main.c                the demo
 Core/Src/startup_stm32f107.c   vector table + reset handler
 STM32F107VCT6.ld               linker script
 Docs/PINMAP.md                 verified pin map
+Docs/UPLOAD_METHODS.md         SWD / UART bootloader / DFU
+Docs/CUBEPROGRAMMER.md         STM32CubeProgrammer guide
 ```
 
 ## Troubleshooting
