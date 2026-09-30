@@ -4,6 +4,11 @@ Bare-metal firmware for the **MKS TFT28 V4.0** board (**STM32F107VCT6**).
 
 Current milestone: **draw a circle on the LCD**.
 
+## Two ways to build
+
+* **Arduino IDE** (easiest) -> see [Arduino/README.md](Arduino/README.md), sketch in `Arduino/TFT28_Circle/`
+* **Bare-metal Makefile** -> below
+
 ## Build
 
 ```bash
